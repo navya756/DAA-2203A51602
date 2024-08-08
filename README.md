@@ -13,3 +13,5 @@ week2-1: https://github.com/navya756/DAA-2203A51602/blob/main/week%202-1.cpp
 week2-2: https://github.com/navya756/DAA-2203A51602/blob/main/week%202-2.cpp
 
 week2-3: https://github.com/navya756/DAA-2203A51602/blob/main/week%202-3.cpp
+
+binary search: https://github.com/navya756/DAA-2203A51602/blob/main/binary%20search.cpp
